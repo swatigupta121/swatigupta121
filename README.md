@@ -19,7 +19,7 @@
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 <div align="center">
 
-<p><img align="right" src="https://media.giphy.com/media/VEhpX9lshFoFHNS563/giphy.gif" width="400" height="400" /></p>
+<p><img align="right" src="https://media.giphy.com/media/VEhpX9lshFoFHNS563/giphy.gif" width="300" height="300" /></p>
 </div>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swatigupta121&show_icons=true&locale=en" alt="swatigupta121" /></p>
