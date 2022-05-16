@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swatigupta121&label=Profile%20views&color=0e75b6&style=flat" alt="swatigupta121" /> </p>
 
-- 🌱 I’m currently learning **C++ and DSA**
+- 🌱 I’m currently learning **C++, DSA and MERN Stack**
 
 - ✨ I'm a passionate coder who want to explore technologies and contribute in the betterment of society.
 
